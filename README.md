@@ -30,9 +30,9 @@
 
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** | **Activity Graph** |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=script-logic&show_icons=true&theme=radical&hide_title=true&count_private=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-logic&layout=compact&theme=radical&hide=html,css&langs_count=8" width="100%"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=script-logic&theme=github-dark&hide_border=true&area=true" width="100%"> |
+| **Activity Graph** |
+|:---:|
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=script-logic&theme=github-dark&hide_border=true&area=true" width="100%"> |
 
 </div>
 

@@ -39,4 +39,3 @@
 ## 📬 **Contacts**
 - 📧 **Email:** [dev.scriptlogic@gmail.com](mailto:dev.scriptlogic@gmail.com)
 - 💬 **Telegram:** [@slava_logic](https://t.me/slava_logic)
-- 💼 **GitHub:** [script-logic](https://github.com/script-logic)

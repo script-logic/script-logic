@@ -1,6 +1,6 @@
 # 👋 Hi, I am Slava!
 
-**Backend Python Developer | AI Integrator**  
+**Backend Python Developer | AI Integrator | Electrical Engineer**  
 
 ---
 

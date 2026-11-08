@@ -25,6 +25,9 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/Asyncio-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![ezdxf](https://img.shields.io/badge/ezdxf-FF6B35?style=for-the-badge&logo=autocad&logoColor=white)
+![IfcOpenShell](https://img.shields.io/badge/IfcOpenShell-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C5F2D?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
